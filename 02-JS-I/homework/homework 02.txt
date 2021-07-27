@@ -1,0 +1,23 @@
+Homework 02-js-I
+
+
+Variables: Es un dato al que se le da un valor y sé almacena, para ser reutilizado.
+
+
+
+Strings: Es un tipo de dato. Este tipo de dato es un hilo de caracteres. 
+Se escriben entre " ". El valor que se le atribuye es textual a diferencia de los números. 
+
+
+
+Funciones (argumentos, return);: La función es una agrupación de códigos que se pueden invocar para no repetirse.
+Una función necesita una variable dentro de la misma función(argumento) y su linea de códigos que indica que es lo que se quiere hacer
+(return).
+
+
+
+Declaraciones if: Es una condición que permite comparar. Se puede interpretar como un "SI" y luego la condición siempre 
+y cuando la condicion sea verdadera.
+
+
+Valores booleanos (true, false): Tiene dos valores True y False(verdadero o falso).
